@@ -2,7 +2,7 @@ import sys
 from PyQt6.QtWidgets import QApplication, QWidget
 from PyQt6.QtWidgets import QComboBox, QLabel, QLineEdit, QPushButton, QMessageBox
 
-# Тест github 2
+# Тест github 3
 class MyWindow(QWidget):
     def __init__(self):
         super().__init__()
